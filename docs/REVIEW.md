@@ -24,8 +24,6 @@ MOHAMMED ABDULRAHMAN ABDO ABDULLAH AL-HAMIDI
 - Katmanlı mimari uygulanmıştır (routes → services → models)  
 - Telefon normalizasyonu ve mükerrer kayıt kontrolü yapılmaktadır  
 - Müşteri kaydı olmadan misafir sipariş oluşturulabilmektedir  
-- ETL scripti ile Excel verileri temizlenip veritabanına aktarılmaktadır  
-- Raporlama servisi ile temel istatistikler üretilebilmektedir  
 - Swagger UI ve `docs/` klasörü altında gerekli dokümantasyon mevcuttur  
 - Jest ve Supertest kullanılarak temel endpoint testleri yazılmıştır  
 - Mock/Stub kullanımı ile servis katmanı izole şekilde test edilmiştir  

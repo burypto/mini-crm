@@ -114,5 +114,5 @@ Detaylı gereksinim analizi ve mimari tasarım kararları için `GEREKSINIM_VE_M
 
 **Code Review Yapan:**  
 - MOHAMMED ABDULRAHMAN ABDO ABDULLAH AL-HAMIDI (245112073)  
- [Code Review Raporu](docs/REVIEW.md)
+ [Code Review Raporu](REVIEW.md)
 

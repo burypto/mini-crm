@@ -1,0 +1,6 @@
+GET /api/customers –  çalışıyor
+
+POST /api/customers –  çalışıyor
+
+GET /api/orders – tamamlandı
+

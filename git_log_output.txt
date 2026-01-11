@@ -1,0 +1,19 @@
+* 7ef5045 docs: Teknik el kitabı ve son gereksinim güncellemeleri
+* 268b8bd chore: Final düzeltmeler ve misafir siparişi desteği
+*   10ba66e Merge pull request #4 from feature/docs-and-qa: Dokümantasyon ve Testler
+|\  
+| * eb657b7 docs: Akademik dokümantasyon ve CI/CD yapılandırması
+|/  
+*   b4daa1a Merge pull request #3 from feature/order-management: Sipariş ve Stok
+|\  
+| * f96542b feat: Stok kontrollü sipariş oluşturma ve ürün yönetimi
+|/  
+*   ab41c5e Merge pull request #2 from feature/etl-integration: Veri Aktarımı
+|\  
+| * 5fc9c15 feat: CSV verilerini temizleyerek aktaran ETL scripti tamamlandı
+|/  
+*   c87ab09 Merge pull request #1 from feature/customer-api: Müşteri Yönetimi
+|\  
+| * 89c16c1 feat: Müşteri CRUD işlemleri ve doğrulama mantığı eklendi
+|/  
+* 41359e0 Initial commit: Proje iskeleti ve temel yapılandırma

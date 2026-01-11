@@ -1,0 +1,21 @@
+first_name,last_name,phone,email,address,note
+Ahmet,Yılmaz,905526731872,ahmet.yilmaz@mail.com,"İstanbul, Kadıköy","—"
+Mehmet Ali,,905444628786,,Ankara,"Soyadı yok"
+Ayşe,KARA,905752990311,ayse.kara@mail,,"Email hatalı"
+Hasan,Demir,905511721502,hasan.demir@mail.com,İzmir,
+Hakan A.,Çelik,905877860124,hakan.celik@gmail.com,İstanbul,
+Fatma Nur,Yilmaz,905845189187,,Adana,"Duplicate olabilir"
+fatma nur,yilmaz,905785792249,fatma@mail.com,Adana,"Aynı kişi mi?"
+,Doğan,905683693999,dogan@mail.com,Bursa,"Adı boş"
+Elif,,905371665607,elif@mail.com,İstanbul,"Telefon eksik"
+Ali,Öztürk,905773778831,,,
+Ali,Ozturk,905599646281,ali.ozturk@mail.com,,"Duplicate şüpheli"
+"“Merve”",Kaya,905370428929,mervekaya@mail.com,Manisa,"Ad alanında tırnak var"
+Murat,Şahin,905405867428,,Konya,"Email eksik"
+Ahmet,Yılmaz,905461061407,ahmet.yilmaz@mail.com,İstanbul,"Aynı kişi mi kontrol"
+Caner,Taş,905720579864,caner.tas@mail.com,-,"Telefon eksik"
+Ceren,,905550407428,ceren@@mail.com,İstanbul,"Email hatalı"
+Yusuf,Demİr,905841313722,yusuf.demir@mail.com,Hatay,"Soyad farklı yazılmış"
+Esra,Arslan,905849348994,esra_arslanmail.com,Antalya,"@ eksik"
+Muhammed,Ak,905643734537,,İstanbul,"Email yok"
+M.,Demir,905610325184,mdemir@mail.com,,"Ad çok belirsiz"

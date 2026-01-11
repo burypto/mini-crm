@@ -110,3 +110,9 @@ npm test
 ## Dokümantasyon
 
 Detaylı gereksinim analizi ve mimari tasarım kararları için `GEREKSINIM_VE_MIMARI.md` dosyasını inceleyebilirsiniz.
+
+
+**Code Review Yapan:**  
+- MOHAMMED ABDULRAHMAN ABDO ABDULLAH AL-HAMIDI (245112073)  
+ [Code Review Raporu](docs/REVIEW.md)
+

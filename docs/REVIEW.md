@@ -62,3 +62,4 @@ Bu düzenlemeler yapıldığında proje daha düzenli ve kullanışlı hale gele
 Tüm servisler test edilmiştir,
 Github configrasyonu yapılmıştır.
 İnceleme için teşekkürler.
+- Burak Ünal

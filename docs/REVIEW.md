@@ -28,7 +28,7 @@ MOHAMMED ABDULRAHMAN ABDO ABDULLAH AL-HAMIDI
 - Jest ve Supertest kullanılarak temel endpoint testleri yazılmıştır  
 - Mock/Stub kullanımı ile servis katmanı izole şekilde test edilmiştir  
 - Transaction desteği ile stok kontrollü sipariş oluşturma sağlanmıştır  
-- Soft-delete mekanizması ile müşteri geçmişi korunmaktadır  
+- Soft-delete mekanizması ile müşteri geçmişi korunmaktadır
 - Migration dosyaları ile veritabanı şeması versiyonlanmıştır  
 
 ---
@@ -55,3 +55,10 @@ MOHAMMED ABDULRAHMAN ABDO ABDULLAH AL-HAMIDI
 Proje genel olarak beklenen gereksinimleri karşılamaktadır.  
 Eklenmesi veya Düzenlenmesi veya geliştirilmesi gereken bazı alanlar bulunmaktadır.  
 Bu düzenlemeler yapıldığında proje daha düzenli ve kullanışlı hale gelecektir.
+
+
+**UPDATE**
+
+Tüm servisler test edilmiştir,
+Github configrasyonu yapılmıştır.
+İnceleme için teşekkürler.
